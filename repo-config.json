@@ -6,7 +6,6 @@
     "enableLicenseViolations": true,
     "enableReachability": true,
     "exploitability": true
-
   },
   "scanSettingsSAST": {
     "enableScan": true,
