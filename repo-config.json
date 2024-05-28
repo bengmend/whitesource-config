@@ -47,7 +47,11 @@
       "addDockerfilePath": false,
       "addMendIdentifier": false
     }
+"releaseBranchSettings": {
+  "checkRunSettings.failOnLicenseViolation": true,
+  "checkRunSettings.strictMode": "failure",
+  "checkRunSettings.failOnVulnerabilityMinCvss": 9.0
+}
 
-    
   }
 }
