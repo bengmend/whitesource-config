@@ -5,8 +5,7 @@
     "baseBranches": [],
     "enableLicenseViolations": true,
     "enableReachability": true,
-    "exploitability": true,
-    "releaseBranches": ["v.*"]
+    "exploitability": true
   },
   "scanSettingsSAST": {
     "enableScan": true,
@@ -47,11 +46,7 @@
       "addDockerfilePath": false,
       "addMendIdentifier": false
     }
-"releaseBranchSettings": {
-  "checkRunSettings.failOnLicenseViolation": true,
-  "checkRunSettings.strictMode": "failure",
-  "checkRunSettings.failOnVulnerabilityMinCvss": 9.0
-}
 
+    
   }
 }
